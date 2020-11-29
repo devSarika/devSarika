@@ -1,7 +1,6 @@
 ### Hi there 👋 Im Sarika
 I am currently a final year engineeering undergrad studying in the stream of Information Technology.Developing and coding are the two most exciting things that bring out the best in me. I am always interested to learn anything.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Fullstack development
 - 🌱 I’m currently learning Flutter
