@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**devSarika/devSarika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 Im Sarika
+I am currently a final year engineeering undergrad studying in the stream of Information Technology.Developing and coding are the two most exciting things that bring out the best in me. I am always interested to learn anything.
 
 Here are some ideas to get you started:
 
@@ -11,5 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with any collaboration
 - 💬 Ask me about anything
 - 📫 How to reach me: https://www.linkedin.com/in/sai-sarika-devisetty-07092814a/
+- 📫 Also reach me via: devisettysaisarika@gmail.com
 - ⚡ Fun fact: Suggest me a good series and I'll finish it in one go!
--->
+
