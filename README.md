@@ -4,7 +4,7 @@ I am currently a final year engineeering undergrad studying in the stream of Inf
 
 - 🔭 I’m currently working on Fullstack development
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Intersting Projects
+- 👯 I’m looking to collaborate on Interesting Projects
 - 🤔 I’m looking for help with any collaboration
 - 💬 Ask me about anything
 - 📫 How to reach me: https://www.linkedin.com/in/sai-sarika-devisetty-07092814a/
